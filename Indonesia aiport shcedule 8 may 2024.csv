@@ -1,4 +1,4 @@
-﻿AIRPORT,TIME,FLIGHT,TO,AIRLINE,AIRCRAFT,STATUS,TYPE
+﻿AIRPORT,TIME,FLIGHT,TO/FROM,AIRLINE,AIRCRAFT,STATUS,TYPE
 AAP,8:15:00 AM,ID6672,Jakarta (CGK),Batik Air ,B738 (PK-LDK) ,Landed 8:07 AM,Arrival
 AAP,9:25:00 AM,IU640,Surabaya (SUB),Super Air Jet ,A320 (PK-SJV) ,Landed 10:00 AM,Arrival
 AAP,10:05:00 AM,QG460,Surabaya (SUB),Citilink ,A320 (PK-GQH) ,Landed 10:13 AM,Arrival
@@ -38,22 +38,22 @@ AMQ,1:20:00 PM,IL430,Tiakur (JIO),Trigana Air ,AT4 ,Unknown,Arrival
 AMQ,2:25:00 PM,JT878,Surabaya (SUB),Lion Air ,738,Canceled,Arrival
 AMQ,3:20:00 PM,IW1505,Sorong (SOQ),Wings Air ,AT7 ,Canceled,Arrival
 AMQ,3:35:00 PM,GA646,Jakarta (CGK),Garuda Indonesia ,B738 (PK-GFS) ,Landed 3:30 PM,Arrival
-AMQ D,7:25:00 AM,IW1514,Saumlaki (SXK),Wings Air ,AT76 (PK-WHV) ,Departed 7:44 AM,Departure
-AMQ D,7:35:00 AM,IW1530,Dobo (DOB),Wings Air ,AT76 (PK-WHJ) ,Departed 7:48 AM,Departure
-AMQ D,7:40:00 AM,JT791,Makassar (UPG),Lion Air ,739,Unknown,Departure
-AMQ D,7:50:00 AM,ID6171,Jakarta (CGK),Batik Air ,B738 (PK-LZZ) ,Departed 8:06 AM,Departure
-AMQ D,7:55:00 AM,QG211,Jakarta (CGK),Citilink ,A320 (PK-GLP) ,Departed 8:02 AM,Departure
-AMQ D,8:00:00 AM,IL431,Namrole-Buru Island (NRE),Trigana Air ,AT4 ,Unknown,Departure
-AMQ D,9:30:00 AM,JT880,Langgur (LUV),Lion Air ,B738 (PK-LJW) ,Departed 9:33 AM,Departure
-AMQ D,10:05:00 AM,SJ695,Ternate (TTE),Sriwijaya Air ,738,Unknown,Departure
-AMQ D,10:30:00 AM,IL429,Tiakur (JIO),Trigana Air ,AT4 ,Unknown,Departure
-AMQ D,11:40:00 AM,JT787,Makassar (UPG),Lion Air ,B738 (PK-LJS) ,Departed 12:19 PM,Departure
-AMQ D,12:40:00 PM,SJ663,Makassar (UPG),Sriwijaya Air ,738,Unknown,Departure
-AMQ D,1:20:00 PM,JT881,Makassar (UPG),Lion Air ,B738 (PK-LJW) ,Departed 1:42 PM,Departure
-AMQ D,1:20:00 PM,JT3881,Makassar (UPG),Lion Air ,738,Estimated dep. 1:42 PM,Departure
-AMQ D,3:30:00 PM,JT879,Surabaya (SUB),Lion Air ,738,Canceled,Departure
-AMQ D,3:40:00 PM,IW1506,Sorong (SOQ),Wings Air ,AT7 ,Canceled,Departure
-AMQ D,4:20:00 PM,GA647,Jakarta (CGK),Garuda Indonesia ,B738 (PK-GFS) ,Departed 4:38 PM,Departure
+AMQ,7:25:00 AM,IW1514,Saumlaki (SXK),Wings Air ,AT76 (PK-WHV) ,Departed 7:44 AM,Departure
+AMQ,7:35:00 AM,IW1530,Dobo (DOB),Wings Air ,AT76 (PK-WHJ) ,Departed 7:48 AM,Departure
+AMQ,7:40:00 AM,JT791,Makassar (UPG),Lion Air ,739,Unknown,Departure
+AMQ,7:50:00 AM,ID6171,Jakarta (CGK),Batik Air ,B738 (PK-LZZ) ,Departed 8:06 AM,Departure
+AMQ,7:55:00 AM,QG211,Jakarta (CGK),Citilink ,A320 (PK-GLP) ,Departed 8:02 AM,Departure
+AMQ,8:00:00 AM,IL431,Namrole-Buru Island (NRE),Trigana Air ,AT4 ,Unknown,Departure
+AMQ,9:30:00 AM,JT880,Langgur (LUV),Lion Air ,B738 (PK-LJW) ,Departed 9:33 AM,Departure
+AMQ,10:05:00 AM,SJ695,Ternate (TTE),Sriwijaya Air ,738,Unknown,Departure
+AMQ,10:30:00 AM,IL429,Tiakur (JIO),Trigana Air ,AT4 ,Unknown,Departure
+AMQ,11:40:00 AM,JT787,Makassar (UPG),Lion Air ,B738 (PK-LJS) ,Departed 12:19 PM,Departure
+AMQ,12:40:00 PM,SJ663,Makassar (UPG),Sriwijaya Air ,738,Unknown,Departure
+AMQ,1:20:00 PM,JT881,Makassar (UPG),Lion Air ,B738 (PK-LJW) ,Departed 1:42 PM,Departure
+AMQ,1:20:00 PM,JT3881,Makassar (UPG),Lion Air ,738,Estimated dep. 1:42 PM,Departure
+AMQ,3:30:00 PM,JT879,Surabaya (SUB),Lion Air ,738,Canceled,Departure
+AMQ,3:40:00 PM,IW1506,Sorong (SOQ),Wings Air ,AT7 ,Canceled,Departure
+AMQ,4:20:00 PM,GA647,Jakarta (CGK),Garuda Indonesia ,B738 (PK-GFS) ,Departed 4:38 PM,Departure
 ARD,9:10:00 AM,IW1943,Kupang (KOE),Wings Air ,AT76 (PK-WHM) ,Landed 9:20 AM,Arrival
 ARD,9:30:00 AM,IW1942,Kupang (KOE),Wings Air ,AT76 (PK-WHM) ,Departed 9:55 AM,Departure
 BDJ,4:30:00 AM,RI360,Balikpapan (BPN),Rimbun Air ,73F ,Unknown,Arrival
